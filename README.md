@@ -1,12 +1,7 @@
-```c++
-#include<iostream>
+```php
 
-using namespace std;
-
-int main(){
-	cout << "Hello World";
-	return 0;
-}
-
+<?php
+	echo "Hello World";
+?>
 
 ```
