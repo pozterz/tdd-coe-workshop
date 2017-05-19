@@ -1,5 +1,7 @@
 ## Bug Fixed
 
+## Deal
+
 - no bug hahaha
 
 ## Develop v.2
