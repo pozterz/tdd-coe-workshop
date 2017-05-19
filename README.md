@@ -3,7 +3,7 @@
 ```php
 
 <?php
-	echo "Hello Uwewwewew anyeweeuy ovemumvem ossas";
+	echo "Hello Uwewwewew anyeweeuy ovemumvem osas";
 ?>
 
 ```
