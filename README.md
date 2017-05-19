@@ -1,3 +1,6 @@
+## Bug Fixed
+
+- no bug hahaha
 
 ## Develop v.2
 ```php
